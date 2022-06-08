@@ -1,0 +1,13 @@
+.animate__animated.animate__bounce {
+    --animate-duration: 2.5s;
+  }
+
+  
+
+body{
+    font-family: 'Press Start 2P', cursive;
+}
+
+.header-text [
+    font-size: 12px;
+]
